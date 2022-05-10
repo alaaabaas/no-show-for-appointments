@@ -1,5 +1,5 @@
 # no-show-for-appointments
-answering the question of whether or not patients show up for their appointment
+Answering the question of whether or not a patient will show up for his  appointment
 
 **Questions for Analysis:**
 
